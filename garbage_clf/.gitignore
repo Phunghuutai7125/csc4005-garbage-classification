@@ -1,0 +1,13 @@
+data/
+*.pt
+*.pth
+*.onnx
+wandb/
+__pycache__/
+*.pyc
+.cache/
+outputs/models/
+outputs/predictions/
+*.tar.gz
+*.zip
+.env

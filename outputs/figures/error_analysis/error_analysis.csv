@@ -1,0 +1,15 @@
+true_cls,true_idx,pred_cls,pred_idx,confidence,image
+cardboard,0,paper,3,0.6530933380126953,D:\DL\BTL\Garbage classification\Garbage classification\cardboard\cardboard242.jpg
+glass,1,plastic,4,0.5155719518661499,D:\DL\BTL\Garbage classification\Garbage classification\glass\glass126.jpg
+glass,1,metal,2,0.8580381274223328,D:\DL\BTL\Garbage classification\Garbage classification\glass\glass309.jpg
+metal,2,glass,1,0.5417202711105347,D:\DL\BTL\Garbage classification\Garbage classification\metal\metal91.jpg
+paper,3,plastic,4,0.4281003177165985,D:\DL\BTL\Garbage classification\Garbage classification\paper\paper243.jpg
+paper,3,trash,5,0.6930546760559082,D:\DL\BTL\Garbage classification\Garbage classification\paper\paper449.jpg
+paper,3,metal,2,0.882588267326355,D:\DL\BTL\Garbage classification\Garbage classification\paper\paper469.jpg
+paper,3,trash,5,0.6102799773216248,D:\DL\BTL\Garbage classification\Garbage classification\paper\paper568.jpg
+paper,3,plastic,4,0.616993248462677,D:\DL\BTL\Garbage classification\Garbage classification\paper\paper6.jpg
+plastic,4,glass,1,0.6138173937797546,D:\DL\BTL\Garbage classification\Garbage classification\plastic\plastic152.jpg
+plastic,4,metal,2,0.4052349030971527,D:\DL\BTL\Garbage classification\Garbage classification\plastic\plastic184.jpg
+plastic,4,glass,1,0.5796866416931152,D:\DL\BTL\Garbage classification\Garbage classification\plastic\plastic332.jpg
+trash,5,metal,2,0.8141507506370544,D:\DL\BTL\Garbage classification\Garbage classification\trash\trash121.jpg
+trash,5,plastic,4,0.45079848170280457,D:\DL\BTL\Garbage classification\Garbage classification\trash\trash136.jpg

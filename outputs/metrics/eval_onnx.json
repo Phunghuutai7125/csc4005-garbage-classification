@@ -1,0 +1,9 @@
+{
+  "onnx_path": "outputs\\models\\best_model.onnx",
+  "n_samples": 20,
+  "accuracy": 1.0,
+  "mean_latency_ms": 13.215219974517822,
+  "p95_latency_ms": 17.766427993774435,
+  "throughput_img_per_sec": 75.67032572505374,
+  "model_size_mb": 0.644215
+}

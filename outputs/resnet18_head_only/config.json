@@ -1,0 +1,21 @@
+{
+  "data_dir": "D:\\DL\\BTL\\Garbage classification\\Garbage classification",
+  "model_name": "resnet18",
+  "train_mode": "head_only",
+  "img_size": 224,
+  "batch_size": 32,
+  "epochs": 10,
+  "lr": 0.001,
+  "weight_decay": 0.0001,
+  "dropout": 0.3,
+  "patience": 5,
+  "augment": true,
+  "num_workers": 0,
+  "max_per_class": 0,
+  "scheduler": "cosine",
+  "run_name": "resnet18_head_only",
+  "project": "csc4005-khmt16-01-garbage-classification",
+  "use_wandb": true,
+  "out_base": "outputs",
+  "seed": 42
+}

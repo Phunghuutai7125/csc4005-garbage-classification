@@ -1,0 +1,15 @@
+{
+  "model_name": "mobilenet_v2",
+  "train_mode": "finetune",
+  "img_size": 224,
+  "batch_size": 32,
+  "epochs": 15,
+  "lr": 0.0001,
+  "weight_decay": 0.0001,
+  "dropout": 0.3,
+  "patience": 5,
+  "augment": true,
+  "scheduler": "cosine",
+  "run_name": "mobilenet_v2_finetune",
+  "project": "csc4005-khmt16-01-garbage-classification"
+}
