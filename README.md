@@ -4,6 +4,9 @@ Phân loại rác thải thành 6 loại: **cardboard, glass, metal, paper, plas
 
 ## Thành viên nhóm
 - Phùng Hữu Tài – KHMT 17-01
+- Nguyễn Việt Chung - KHMT 17-01
+- Đặng Quốc An- KHMT 17-01
+- Nguyễn Đoàn Ngọc Linh- KHMT 17-01
 
 ## Dataset
 TrashNet / Garbage Classification Dataset từ Kaggle  
